@@ -4,5 +4,11 @@
         "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/KitchenSink.png",
         "name" : "Kitchen Sink",
         "description" : "The kitchen sink is the first Codename One demo. It was rewritten in 2016 as part of a general overhaul. You can check out the full app in Google Play, itunes as well as live on the Codename One website thanks to the JavaScript port of Codename One."
+    },
+    "pheonix" : {
+        "url" : "https://github.com/codenameone/PhoenixUI/archive/master.zip",
+        "imageUrl" : "https://www.codenameone.com/demos/Pheonix/slide-1.png",
+        "name" : "Pheonix UI",
+        "description" : "Port of the PhoenixUI kit PSD by Adrian Chiran to Codename One."
     }
 }
