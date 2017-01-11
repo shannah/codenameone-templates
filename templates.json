@@ -7,7 +7,7 @@
     },
     "pheonix" : {
         "url" : "https://github.com/codenameone/PhoenixUI/archive/master.zip",
-        "imageUrl" : "https://www.codenameone.com/demos/Pheonix/slide-1.png",
+        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/Phoenix.png",
         "name" : "Pheonix UI",
         "description" : "Port of the PhoenixUI kit PSD by Adrian Chiran to Codename One."
     }
