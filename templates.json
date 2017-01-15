@@ -28,5 +28,12 @@
         "name" : "Swift Notes",
         "description" : "A port of the Android native Swiftnotes app to Codename One that allows the app to run on all mobile platforms. Swiftnotes for Android is open source without their great work this would have been a harder tutorial to pull off!",
         "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/SwiftNotes.jar#com.codename1.moonpi.swiftnotes.SwiftnotesCN1"
+    },
+    "materialscreensuikit" : {
+        "url" : "https://github.com/codenameone/MaterialScreensUIKit/archive/master.zip",
+        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/MaterialScreensUIKit.png",
+        "name" : "Material Screens UI Kit",
+        "description" : "This is a port of the MSUIKit PSD's to Codename One which allows them to run on all devices. You can see this running in the browser and on device by checking out the demos page.",
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/SwiftNotes.jar#com.codename1.moonpi.swiftnotes.SwiftnotesCN1"
     }
 }
