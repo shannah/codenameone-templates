@@ -34,6 +34,6 @@
         "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/MaterialScreensUIKit.png",
         "name" : "Material Screens UI Kit",
         "description" : "This is a port of the MSUIKit PSD's to Codename One which allows them to run on all devices. You can see this running in the browser and on device by checking out the demos page.",
-        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/SwiftNotes.jar#com.codename1.moonpi.swiftnotes.SwiftnotesCN1"
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/MaterialScreensUIKit.jar#com.codename1.uikit.materialscreens.MSUIKit"
     }
 }
