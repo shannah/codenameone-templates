@@ -35,5 +35,12 @@
         "name" : "Material Screens UI Kit",
         "description" : "This is a port of the MSUIKit PSD's to Codename One which allows them to run on all devices. You can see this running in the browser and on device by checking out the demos page.",
         "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/MaterialScreensUIKit.jar#com.codename1.uikit.materialscreens.MSUIKit"
+    },
+    "propertycross" : {
+        "url" : "https://github.com/codenameone/PropertyCross/archive/master.zip",
+        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/PropertyCross.png",
+        "name" : "Property Cross Demo",
+        "description" : "This demo is based on the Property Cross project which aims to compare the differences between various cross platform solutions. It demonstrates how unlike other solutions Codename One maintains a single code base to produce native applications.",
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/PropertyCross.jar#com.codename1.uikit.materialscreens.MSUIKit"
     }
 }
