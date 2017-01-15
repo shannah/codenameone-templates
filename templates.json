@@ -16,16 +16,16 @@
     },
     "sqlplayground" : {
         "url" : "https://github.com/codenameone/SQLSample/archive/master.zip",
-        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/CleanModernUI.png",
+        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/SQLPlayground.png",
         "name" : "SQL Playground",
         "description" : "A simple app to demonstrate the SQL capabilities of Codename One by allowing you to arbitrarilly execute SQL commands on a mobile device, desktop or browser. The app also includes a tutorial mode to walk you thru a set of SQL commands.",
-        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/CleanModernUI.jar#com.codename1.uikit.cleanmodern.CleanModern"
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/SQLPlayground.jar#com.codename1.apps.db.DBDemo"
         
     },
-    "pheonix2" : {
-        "url" : "https://github.com/codenameone/PhoenixUI/archive/master.zip",
+    "swiftnotes" : {
+        "url" : "https://github.com/codenameone/SwiftnotesCN1/archive/master.zip",
         "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/Phoenix.png",
-        "name" : "Pheonix UI",
-        "description" : "Port of the PhoenixUI kit PSD by Adrian Chiran to Codename One."
+        "name" : "Swift Notes",
+        "description" : "A port of the Android native Swiftnotes app to Codename One that allows the app to run on all mobile platforms. Swiftnotes for Android is open source without their great work this would have been a harder tutorial to pull off!"
     }
 }
