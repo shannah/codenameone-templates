@@ -10,7 +10,8 @@
         "url" : "https://github.com/codenameone/PhoenixUI/archive/master.zip",
         "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/Phoenix.png",
         "name" : "Pheonix UI",
-        "description" : "Port of the PhoenixUI kit PSD by Adrian Chiran to Codename One."
+        "description" : "Port of the PhoenixUI kit PSD by Adrian Chiran to Codename One.",
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/phoenix.jar#com.codename1.uikit.pheonixui.PheonixUI"
         
     },
     "kitchensink2" : {
