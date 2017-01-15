@@ -41,6 +41,6 @@
         "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/PropertyCross.png",
         "name" : "Property Cross Demo",
         "description" : "This demo is based on the Property Cross project which aims to compare the differences between various cross platform solutions. It demonstrates how unlike other solutions Codename One maintains a single code base to produce native applications.",
-        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/PropertyCross.jar#com.codename1.uikit.materialscreens.MSUIKit"
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/PropertyCross.jar#com.propertycross.codename1.PropertyCross"
     }
 }
