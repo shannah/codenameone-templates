@@ -24,8 +24,9 @@
     },
     "swiftnotes" : {
         "url" : "https://github.com/codenameone/SwiftnotesCN1/archive/master.zip",
-        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/Phoenix.png",
+        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/SwiftNotes.png",
         "name" : "Swift Notes",
-        "description" : "A port of the Android native Swiftnotes app to Codename One that allows the app to run on all mobile platforms. Swiftnotes for Android is open source without their great work this would have been a harder tutorial to pull off!"
+        "description" : "A port of the Android native Swiftnotes app to Codename One that allows the app to run on all mobile platforms. Swiftnotes for Android is open source without their great work this would have been a harder tutorial to pull off!",
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/SwiftNotes.jar#com.codename1.moonpi.swiftnotes.SwiftnotesCN1"
     }
 }
