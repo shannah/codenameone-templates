@@ -16,10 +16,10 @@
     },
     "sqlplayground" : {
         "url" : "https://github.com/codenameone/SQLSample/archive/master.zip",
-        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/CleanModernUI.png",
+        "imageUrl" : "https://github.com/shannah/codenameone-templates/raw/master/images/SQLPlayground.png",
         "name" : "SQL Playground",
         "description" : "A simple app to demonstrate the SQL capabilities of Codename One by allowing you to arbitrarilly execute SQL commands on a mobile device, desktop or browser. The app also includes a tutorial mode to walk you thru a set of SQL commands.",
-        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/CleanModernUI.jar#com.codename1.uikit.cleanmodern.CleanModern"
+        "demoUrl": "https://github.com/shannah/codenameone-templates/raw/master/demos/SQLPlayground.jar#com.codename1.apps.db.DBDemo"
         
     },
     "pheonix2" : {
